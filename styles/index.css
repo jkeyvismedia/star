@@ -6,6 +6,11 @@ html, body {
   overflow: hidden;
 }
 
+.header{
+  font-family: comic sans;
+  font-size: 100px;
+  color: yellow;
+}
 
 #bm {
   border: 10px solid blue;
